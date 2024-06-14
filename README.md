@@ -7,6 +7,17 @@ I recommend using [nodeMCU-pyflasher](https://github.com/marcelstoer/nodemcu-pyf
 
 ## Setup
 
+### Arduino board
+On the additional boards manager URLs add http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+### Arduino Libraries
+
+- WebSockets by Markus Sattler
+- Arduino_JSON by Arduino (BETA)
+- Adafruit NeoPixel by Adafruit
+- Preferences by Volodymyr Shymanskyy
+- WiFiManager by tzapu
+
 - Flash firmware with nodemcu-pyflasher
 - Reboot the device
 - Device will start an AP wifi, connect to it
