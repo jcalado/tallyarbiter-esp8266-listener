@@ -18,6 +18,8 @@ On the additional boards manager URLs add http://arduino.esp8266.com/stable/pack
 - Preferences by Volodymyr Shymanskyy
 - WiFiManager by tzapu
 
+### Flashing
+
 - Flash firmware with nodemcu-pyflasher
 - Reboot the device
 - Device will start an AP wifi, connect to it
